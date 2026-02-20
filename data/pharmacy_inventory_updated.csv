@@ -1,0 +1,19 @@
+zone,state,facility,drug,stock,status,last_restock
+North East,Yobe,Damaturu General Hospital,Artemether-Lumefantrine,150,In Stock,2026-02-10
+North East,Yobe,Damaturu General Hospital,Quinine,25,Low Stock,2026-01-20
+North East,Yobe,Damaturu General Hospital,Nitrofurantoin,5,Critical Low,2026-01-15
+North West,Kebbi,Birnin Kebbi Specialist,Artemether-Lumefantrine,12,Critical Low,2026-01-25
+North West,Kebbi,Birnin Kebbi Specialist,Sulfadoxine-Pyrimethamine,200,In Stock,2026-02-08
+North West,Kebbi,Birnin Kebbi Specialist,Quinine,60,In Stock,2026-02-05
+North Central,Niger,Minna General Hospital,Artemether-Lumefantrine,85,In Stock,2026-02-12
+North Central,Niger,Minna General Hospital,Nitrofurantoin,45,In Stock,2026-02-07
+North Central,Niger,Minna General Hospital,Quinine,0,Out of Stock,2025-12-15
+South West,Ondo,Akure Medical Center,Artemether-Lumefantrine,0,Out of Stock,2025-12-20
+South West,Ondo,Akure Medical Center,Nitrofurantoin,80,In Stock,2026-02-01
+South West,Ondo,Akure Medical Center,Sulfadoxine-Pyrimethamine,120,In Stock,2026-02-09
+South East,Enugu,ESUT Teaching Hospital,Quinine,40,In Stock,2026-02-11
+South East,Enugu,ESUT Teaching Hospital,Artemether-Lumefantrine,18,Low Stock,2026-01-28
+South East,Enugu,ESUT Teaching Hospital,Nitrofurantoin,120,In Stock,2026-02-12
+South South,Cross,Calabar PHC,Sulfadoxine-Pyrimethamine,500,In Stock,2026-02-05
+South South,Cross,Calabar PHC,Artemether-Lumefantrine,220,In Stock,2026-02-08
+South South,Cross,Calabar PHC,Nitrofurantoin,95,In Stock,2026-02-10
