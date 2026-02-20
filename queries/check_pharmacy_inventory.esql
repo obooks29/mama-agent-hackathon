@@ -1,0 +1,13 @@
+FROM pharmacy_inventory
+| WHERE state == ?state
+| STATS 
+    total_drugs = COUNT(*),
+    out_of_stock = SUM(TO_INTEGER(stock == 0)),
+    critical_low = SUM(TO_INTEGER(stock > 0 AND stock < 20)),
+    adequate_stock = SUM(TO_INTEGER(stock >= 50)) BY state
+| EVAL alert_level = CASE(
+    out_of_stock > 0, "URGENT - Stockouts detected",
+    critical_low > 0, "WARNING - Low stock",
+    "OK - Adequate supply"
+  )
+| KEEP state, total_drugs, out_of_stock, critical_low, adequate_stock, alert_level
