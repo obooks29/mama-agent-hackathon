@@ -1,0 +1,10 @@
+FROM nigeria_malaria_pregnancy
+| WHERE state == ?state
+| WHERE @timestamp >= "2024-01-01"
+| EVAL is_disrupted = TO_INTEGER(disruption > 0)
+| STATS 
+    avg_malaria = AVG(malaria_cases),
+    avg_mip = AVG(mip_cases),
+    disruptions = SUM(is_disrupted),
+    total_records = COUNT(*)
+| EVAL disruption_rate = ROUND(disruptions * 100.0 / total_records, 1)
