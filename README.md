@@ -293,23 +293,23 @@ Use these two critical test cases to verify the adversarial review works correct
 
 ## Demo Video
 
-[![MAMA Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/your-video-id)
+[![MAMA Demo](https://youtu.be/8bMgyBpP9Mw)
 
-*Click to watch the 3-minute demo.*
+*Click to watch the demo.*
 
 ---
 
 ## Social
 
 Follow the build and share:
-- 🐦 Post link: [Add your X/Twitter post link here]
+- 🐦 Post link: (https://x.com/_EuroBridge/status/2026433126117904728?s=20)
 - Tag: [@elastic_devs](https://twitter.com/elastic_devs)
 
 ---
 
 ## Built With
 
-- [Elasticsearch Serverless](https://www.elastic.co/cloud/serverless) (Newton 9.3)
+- [Elasticsearch Serverless](https://www.elastic.co/cloud/serverless) 
 - [Elastic Agent Builder](https://www.elastic.co/docs/current/agent-builder)
 - [ES|QL](https://www.elastic.co/guide/en/elasticsearch/reference/current/esql.html)
 - [Gemini 1.5 Pro](https://deepmind.google/technologies/gemini/) via Vertex AI connector
