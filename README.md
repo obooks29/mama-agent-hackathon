@@ -2,7 +2,7 @@
 
 *Clinical AI for Nigerian community health workers — powered by Elasticsearch*
 
-![MAMA Banner](docs/nigeria_zones.png)
+![MAMA Banner](docs/MamaAI.png)
 
 > **Built for the Elasticsearch Agent Builder Hackathon 2026**
 
@@ -334,5 +334,8 @@ Built by [Bukola Jimoh] for the **Elasticsearch Agent Builder Hackathon 2026**.
 - Clinical protocols based on **WHO 2015 Malaria in Pregnancy Treatment Guidelines** and **Nigeria's 2022 National Malaria Elimination Programme**
 
 ---
+##
 
+![MAMA Banner](docs/MamaAI_2.png)
+---
 *Made with ❤️ for Nigerian mothers and their babies.*
