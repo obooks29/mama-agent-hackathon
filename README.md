@@ -293,7 +293,7 @@ Use these two critical test cases to verify the adversarial review works correct
 
 ## Demo Video
 
-[![MAMA Demo](https://youtu.be/8bMgyBpP9Mw)
+[![MAMA Demo]([https://youtu.be/_LnaTqg4gyg])
 
 *Click to watch the demo.*
 
@@ -303,7 +303,7 @@ Use these two critical test cases to verify the adversarial review works correct
 
 Follow the build and share:
 - 🐦 Post link: (https://x.com/_EuroBridge/status/2026433126117904728?s=20)
-- Tag: [@elastic_devs](https://twitter.com/elastic_devs)
+- Tag: [@_EuroBridge]([https://twitter.com/elastic_devs](https://x.com/_EuroBridge/status/2026433126117904728?s=20))
 
 ---
 
